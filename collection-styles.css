@@ -30,7 +30,6 @@ section {
 .images > div {
   text-align: center;
 }
-.munch {
-  display: flex;
-  align-items: center;
+.munch img {
+  padding: 40px 0;
 }
